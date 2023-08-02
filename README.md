@@ -19,7 +19,7 @@ It's aimed at people who want to understand how some Python libraries can be hel
 - There is a slight difference between property surface area in and outside Seattle. Big houses tend to be a little bigger outside Seattle, whereas small and medium houses have a little more surface area inside Seattle. However, this difference is so small according to the graph, that houses can be considered the same size regardless of their location relative to Seattle.
   
 <p align="center">
-  <img src= "https://raw.githubusercontent.com/Karen-Benites/House_Sales_USA_Analysis/main/Median_property_comparison.png?token=GHSAT0AAAAAACFUFEIUQVKTRRSG6CZF2FUAZGKQ7PA">
+  <img src= "https://github.com/Karen-Benites/House_Sales_USA_Analysis/blob/main/Median_property_comparison.png?raw=true">
 </p>
 
 - When building a graph comparing the cheapest houses according to house size, at first glance, it seems a bit suspicious that a small house has a higher price than a large one in this latter graph. However, it is essential to remember the context of the data. This graph does not take into account the location of the houses; therefore, a possible explanation for this phenomenon is that houses located within a city tend to be more expensive and smaller, while larger houses are typically found outside the city, which could lower their selling price. Thus, this small house with a price above a large house might be situated in a luxurious location within a city, whereas the large house may be located outside a city, leading to a lower sale price.
