@@ -31,7 +31,7 @@ It's aimed at people who want to understand how some Python libraries can be hel
 - When comparing client's average review score (satisfaction level) with house size, there was no difference between the average review score and house size. Thus, there is no relation between client's satisfaction and house size. Client's satisfaction level is influenced by other factors.
   
 <p align="center">
-  <img src= "https://raw.githubusercontent.com/Karen-Benites/House_Sales_USA_Analysis/main/Satisfaction_per_house_size.png?token=GHSAT0AAAAAACFUFEIU3AAUM2TLNO4NITRCZGKQ6VQ">
+  <img src= "https://github.com/Karen-Benites/House_Sales_USA_Analysis/blob/main/Satisfaction_per_house_size.png?raw=true">
 </p>
 
 - According to the graph, the most expensive houses are in Medina and Mercer Islan. The chapest houses are in Kent and Federal Way.
