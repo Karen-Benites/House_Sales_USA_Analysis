@@ -37,7 +37,7 @@ It's aimed at people who want to understand how some Python libraries can be hel
 - According to the graph, the most expensive houses are in Medina and Mercer Islan. The chapest houses are in Kent and Federal Way.
 
 <p align="center">
-  <img src= "https://raw.githubusercontent.com/Karen-Benites/House_Sales_USA_Analysis/main/Heat_map_cities_prices.png?token=GHSAT0AAAAAACFUFEIUDM725DNORGCK26HUZGKQ3VQ">
+  <img src= "https://github.com/Karen-Benites/House_Sales_USA_Analysis/blob/main/Heat_map_cities_prices.png?raw=true">
 </p>
   
 - Visually, we can see (in the graph below) that there is some correlation between house size, location and price. Houses outside Seattle tend to be more expensive than those inside; and the bigger the house, the more expensive and the farther they are from Seattle. This hypothesis is confirmed later with a statistical hypothesis test.
