@@ -11,7 +11,7 @@ It's aimed at people who want to understand how some Python libraries can be hel
 - There is an important number of people that are not fully satisfied with the house they bought. Indeed, most of them gave a review of 3-4, according to the following graph:
   
 <p align="center">
-  <img src= "https://github.com/Karen-Benites/House_Sales_USA_Analysis/blob/main/review_label_count.png?raw=true">
+  <img src= "https://github.com/Karen-Benites/House_Sales_USA_Analysis/blob/main/Pictures/review_label_count.png?raw=true">
 </p>
 
 - A difference of 6.73 % between property surface area in and outside Seattle can be seen little at the beginning, but in the real state business, this can be an alarming value.
@@ -19,31 +19,31 @@ It's aimed at people who want to understand how some Python libraries can be hel
 - There is a slight difference between property surface area in and outside Seattle. Big houses tend to be a little bigger outside Seattle, whereas small and medium houses have a little more surface area inside Seattle. However, this difference is so small according to the graph, that houses can be considered the same size regardless of their location relative to Seattle.
   
 <p align="center">
-  <img src= "https://github.com/Karen-Benites/House_Sales_USA_Analysis/blob/main/Median_property_comparison.png?raw=true">
+  <img src= "https://github.com/Karen-Benites/House_Sales_USA_Analysis/blob/main/Pictures/Median_property_comparison.png?raw=true">
 </p>
 
 - When building a graph comparing the cheapest houses according to house size, at first glance, it seems a bit suspicious that a small house has a higher price than a large one in this latter graph. However, it is essential to remember the context of the data. This graph does not take into account the location of the houses; therefore, a possible explanation for this phenomenon is that houses located within a city tend to be more expensive and smaller, while larger houses are typically found outside the city, which could lower their selling price. Thus, this small house with a price above a large house might be situated in a luxurious location within a city, whereas the large house may be located outside a city, leading to a lower sale price.
 
 <p align="center">
-  <img src= "https://github.com/Karen-Benites/House_Sales_USA_Analysis/blob/main/Cheapest_houses_size_comparison.png?raw=true">
+  <img src= "https://github.com/Karen-Benites/House_Sales_USA_Analysis/blob/main/Pictures/Cheapest_houses_size_comparison.png?raw=true">
 </p>
 
 - When comparing client's average review score (satisfaction level) with house size, there was no difference between the average review score and house size. Thus, there is no relation between client's satisfaction and house size. Client's satisfaction level is influenced by other factors.
   
 <p align="center">
-  <img src= "https://github.com/Karen-Benites/House_Sales_USA_Analysis/blob/main/Satisfaction_per_house_size.png?raw=true">
+  <img src= "https://github.com/Karen-Benites/House_Sales_USA_Analysis/blob/main/Pictures/Satisfaction_per_house_size.png?raw=true">
 </p>
 
 - According to the graph, the most expensive houses are in Medina and Mercer Islan. The chapest houses are in Kent and Federal Way.
 
 <p align="center">
-  <img src= "https://github.com/Karen-Benites/House_Sales_USA_Analysis/blob/main/Heat_map_cities_prices.png?raw=true">
+  <img src= "https://github.com/Karen-Benites/House_Sales_USA_Analysis/blob/main/Pictures/Heat_map_cities_prices.png?raw=true">
 </p>
   
 - Visually, we can see (in the graph below) that there is some correlation between house size, location and price. Houses outside Seattle tend to be more expensive than those inside; and the bigger the house, the more expensive and the farther they are from Seattle. This hypothesis is confirmed later with a statistical hypothesis test.
 
 <p align="center">
-  <img src= "https://github.com/Karen-Benites/House_Sales_USA_Analysis/blob/main/expensive_houses_per_location.png?raw=true">
+  <img src= "https://github.com/Karen-Benites/House_Sales_USA_Analysis/blob/main/Pictures/expensive_houses_per_location.png?raw=true">
 </p>
 
   
