@@ -1,5 +1,5 @@
 ## House Sales USA Analysis
-House Sales in the USA: an Exploratory Analysis using Python as the main programming language to understand some trends and correlations between prices, client satisfaction, houses' size, and location. This work is based on an academic exercise taken from a university course.
+House Sales in the USA: an Exploratory Analysis using Python as the main programming language to understand some trends and correlations between prices, client satisfaction, houses' size, and location. This work is based and adapted on an academic exercise taken from a university course.
 It's aimed at people who want to understand how some Python libraries can be helpful when doing exploratory data analysis and to extract some useful insights from data.
 
 ## Authors
