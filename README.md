@@ -25,7 +25,7 @@ It's aimed at people who want to understand how some Python libraries can be hel
 - When building a graph comparing the cheapest houses according to house size, at first glance, it seems a bit suspicious that a small house has a higher price than a large one in this latter graph. However, it is essential to remember the context of the data. This graph does not take into account the location of the houses; therefore, a possible explanation for this phenomenon is that houses located within a city tend to be more expensive and smaller, while larger houses are typically found outside the city, which could lower their selling price. Thus, this small house with a price above a large house might be situated in a luxurious location within a city, whereas the large house may be located outside a city, leading to a lower sale price.
 
 <p align="center">
-  <img src= "https://raw.githubusercontent.com/Karen-Benites/House_Sales_USA_Analysis/main/Cheapest_houses_size_comparison.png?token=GHSAT0AAAAAACFUFEIV533XRNAK54RULBGIZGKQ2XA">
+  <img src= "https://github.com/Karen-Benites/House_Sales_USA_Analysis/blob/main/Cheapest_houses_size_comparison.png?raw=true">
 </p>
 
 - When comparing client's average review score (satisfaction level) with house size, there was no difference between the average review score and house size. Thus, there is no relation between client's satisfaction and house size. Client's satisfaction level is influenced by other factors.
