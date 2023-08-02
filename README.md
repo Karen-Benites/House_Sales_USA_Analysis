@@ -11,7 +11,7 @@ It's aimed at people who want to understand how some Python libraries can be hel
 - There is an important number of people that are not fully satisfied with the house they bought. Indeed, most of them gave a review of 3-4, according to the following graph:
   
 <p align="center">
-  <img src= "https://raw.githubusercontent.com/Karen-Benites/House_Sales_USA_Analysis/main/review_label_count.png?token=GHSAT0AAAAAACFUFEIVHEASPBCX744RMOYKZGKQ4ZQ">
+  <img src= "https://github.com/Karen-Benites/House_Sales_USA_Analysis/blob/main/review_label_count.png?raw=true">
 </p>
 
 - A difference of 6.73 % between property surface area in and outside Seattle can be seen little at the beginning, but in the real state business, this can be an alarming value.
