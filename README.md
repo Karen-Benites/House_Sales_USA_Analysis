@@ -43,7 +43,7 @@ It's aimed at people who want to understand how some Python libraries can be hel
 - Visually, we can see (in the graph below) that there is some correlation between house size, location and price. Houses outside Seattle tend to be more expensive than those inside; and the bigger the house, the more expensive and the farther they are from Seattle. This hypothesis is confirmed later with a statistical hypothesis test.
 
 <p align="center">
-  <img src= "https://raw.githubusercontent.com/Karen-Benites/House_Sales_USA_Analysis/main/expensive_houses_per_location.png?token=GHSAT0AAAAAACFUFEIV5KLCLMGYLYG4HKBWZGKQ5RA">
+  <img src= "https://github.com/Karen-Benites/House_Sales_USA_Analysis/blob/main/expensive_houses_per_location.png?raw=true">
 </p>
 
   
